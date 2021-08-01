@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployServiceCRUD", "EmployServiceCRUD\EmployServiceCRUD.csproj", "{B5913917-CB41-49B6-A8CD-79B554DB61FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployClientDemo", "EmployClientDemo\EmployClientDemo.csproj", "{B2C2BC77-F40C-4BE7-9A1A-43DA1211D5D4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B5913917-CB41-49B6-A8CD-79B554DB61FA} = {B5913917-CB41-49B6-A8CD-79B554DB61FA}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5913917-CB41-49B6-A8CD-79B554DB61FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5913917-CB41-49B6-A8CD-79B554DB61FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5913917-CB41-49B6-A8CD-79B554DB61FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5913917-CB41-49B6-A8CD-79B554DB61FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C2BC77-F40C-4BE7-9A1A-43DA1211D5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C2BC77-F40C-4BE7-9A1A-43DA1211D5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C2BC77-F40C-4BE7-9A1A-43DA1211D5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C2BC77-F40C-4BE7-9A1A-43DA1211D5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

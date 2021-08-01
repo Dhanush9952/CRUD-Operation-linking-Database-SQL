@@ -1,0 +1,5 @@
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployServiceCRUD\obj\Debug\EmployServiceCRUD.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployServiceCRUD\bin\EmployServiceCRUD.dll
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployServiceCRUD\bin\EmployServiceCRUD.pdb
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployServiceCRUD\obj\Debug\EmployServiceCRUD.dll
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployServiceCRUD\obj\Debug\EmployServiceCRUD.pdb

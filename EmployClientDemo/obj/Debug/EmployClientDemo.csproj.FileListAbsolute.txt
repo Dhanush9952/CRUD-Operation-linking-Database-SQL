@@ -1,0 +1,6 @@
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployClientDemo\bin\Debug\EmployClientDemo.exe.config
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployClientDemo\bin\Debug\EmployClientDemo.exe
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployClientDemo\bin\Debug\EmployClientDemo.pdb
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployClientDemo\obj\Debug\EmployClientDemo.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployClientDemo\obj\Debug\EmployClientDemo.exe
+F:\visual studio 2012\Projects\EmployServiceCRUD\EmployClientDemo\obj\Debug\EmployClientDemo.pdb
